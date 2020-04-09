@@ -6,3 +6,7 @@
 - **bugs-frontend**: The completed React/Redux front-end for the bug tracker app.
 
 # redux-starter
+
+npm i
+npm start
+localhost:9000
